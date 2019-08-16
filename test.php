@@ -1,1 +1,1 @@
- <?php print_r("hiiii"); ?> 
+ <?php print_r("hi"); ?>
